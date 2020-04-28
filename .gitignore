@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# Mac metadata
+*.DS_Store
+
 # Compiled Object files
 *.slo
 *.lo
